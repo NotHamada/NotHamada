@@ -8,3 +8,4 @@
   ![snake gif](https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=NotHamada&repo=NotHamada&theme=react)](https://github.com/NotHamada/NotHamada)
