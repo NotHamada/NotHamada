@@ -1,3 +1,5 @@
+Hello, I'm Matheus Hamada!
+
 ![snake gif](https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg)  
 <div>
   <a href="https://github.com/NotHamada">
