@@ -9,6 +9,10 @@
 <div>
   <a href="https://github.com/NotHamada">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=NotHamada&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div> 
+<div>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&layout=compact&langs_count=7&theme=react" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
