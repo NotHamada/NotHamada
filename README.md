@@ -1,4 +1,6 @@
-Hello, I'm Matheus Hamada!
+# Hello, I'm Matheus Hamada!
+
+### Actually I'm a C# Developer at IronBug Sistemas, a Science Computing student at Universidade Estadual de Maringá, Analysis & Systems Development student at Unicesumar
 
 ![snake gif](https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg)  
 <div>
