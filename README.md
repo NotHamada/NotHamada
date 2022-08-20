@@ -46,5 +46,5 @@
   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" href="http://m.me/matheus.hamada" />
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="[https://msng.link/o/?Matheus Hamada=tg](https://msng.link/o/?@whyhamada=tg)" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="[https://msng.link/o/?5544991170071=wa](https://api.whatsapp.com/send?phone=5544991170071)" />
+  <a href="[https://msng.link/o/?5544991170071=wa](https://api.whatsapp.com/send?phone=5544991170071)" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
