@@ -1,6 +1,6 @@
-# :v: Hello, I'm Matheus Hamada!
+# :v: Hello, I'm Matheus Hamada! Welcome!
 
-### Actually I'm a Developer at IronBug Sistemas, a Science Computing student at Universidade Estadual de Maringá, Analysis & Systems Development student at Unicesumar
+### I'm 19 years old, and I'm a Developer at IronBug Sistemas, a Science Computing student at Universidade Estadual de Maringá, Analysis & Systems Development student at Unicesumar
 ### Everyone questions me how can I do these 3 things at the same time, and I think it's only time management
 
 <div align="center">
