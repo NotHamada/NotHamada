@@ -9,9 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/NotHamada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotHamada&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotHamada&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&layout=compact&langs_count=7&theme=chartreuse-dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=NotHamada&theme=chartreuse-dark" />
+    </div>
   
 <div align="center">
   <h3>Skills</h3>
