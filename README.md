@@ -9,7 +9,7 @@
 <div align="center">
   <div align>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true&card_width=400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true&card_width=402px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=NotHamada&theme=monokai&show_icons=true&hide_border=true&count_private=true&card_width=437px" />
