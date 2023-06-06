@@ -7,13 +7,10 @@
   <img src="https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/NotHamada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotHamada&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&layout=compact&langs_count=10&theme=radical" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotHamada&theme=radical" />
-    </div>
-  
+![NotHamada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=vue-dark&hide_border=true)
+![NotHamada's Stats](https://github-readme-stats.vercel.app/api?username=NotHamada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
+![NotHamada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)[](url)    
+
 <div align="center">
   <h3>Skills</h3>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
