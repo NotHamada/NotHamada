@@ -6,10 +6,17 @@
 <div align="center">
   <img src="https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
-![NotHamada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=vue-dark&hide_border=true)
-![NotHamada's Stats](https://github-readme-stats.vercel.app/api?username=NotHamada&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
-![NotHamada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)[](url)    
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotHamada&theme=monokai&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&theme=monokai&show_icons=true&hide_border=true&layout=compact&langs_count=10" />
+</a>
+</div>
 
 <div align="center">
   <h3>Skills</h3>
