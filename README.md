@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg" />
 </div>
-<div align="center">
+<div align="center" style="width: 1000px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true&card_width=497px" />
 </a>
