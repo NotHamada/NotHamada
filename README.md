@@ -6,16 +6,21 @@
 <div align="center">
   <img src="https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg" />
 </div>
-<div align="center" style="width: 1000px;">
+<div align="center">
+  <div align>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true&card_width=437px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotHamada&theme=monokai&hide_border=true&card_width=400px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=NotHamada&theme=monokai&show_icons=true&hide_border=true&count_private=true&card_width=437px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a>    
+  </div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHamada&theme=monokai&show_icons=true&hide_border=true&langs_count=10&card_width=1000px" />
 </a>
+  </div>
+
 </div>
 
 <div align="center">
