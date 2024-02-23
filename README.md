@@ -1,7 +1,7 @@
-# :v: Hello, I'm Matheus Hamada! Welcome!
+# :v: Hello, I'm Matheus Hamada
 
-### I'm 19 years old, and I'm a Developer at IronBug Sistemas, a Science Computing student at Universidade Estadual de Maringá, Analysis & Systems Development student at Unicesumar
-### Everyone questions me how can I do these 3 things at the same time, and I think it's only a good time management
+### From '03 year, graduate in Analysis and Systems Development from Unicesumar
+### Graduating in Computer Science at UEM and graduating in Big Data at Uniasselvi
 
 <div align="center">
   <img src="https://github.com/NotHamada/NotHamada/blob/output/github-contribution-grid-snake.svg" />
