@@ -31,20 +31,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotHamada&radius=16&theme=react&area=true&order=1" height="300" alt="activity-graph graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NotHamada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NotHamada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotHamada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=2" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotHamada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=3" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NotHamada&theme=dracula&hide_border=true&order=4" height="180" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NotHamada&theme=dracula&no-frame=true&row=1&column=6&order=5" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=NotHamada&theme=dracula&hide_border=true&order=3" height="180" alt="streak stats" />
 </div>
 
 ###
