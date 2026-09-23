@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=460&lines=Full+Stack+Developer+%F0%9F%92%BB;C%23+%2F+.NET+%E2%80%A2+Angular+%E2%80%A2+React;Building+REST+APIs+since+2022+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NotHamada&style=for-the-badge&color=8e2de2&label=PROFILE+VIEWS" alt="profile views" />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/NotHamada/NotHamada/output/snake.svg" alt="Snake animation" />
